@@ -1,0 +1,8 @@
+flask==2.3.3
+gunicorn==21.2.0
+flask-cors==4.0.0
+requests==2.31.0
+python-dotenv==1.0.0
+crewai==0.28.4
+langchain-groq==0.0.3
+litellm==1.10.2
